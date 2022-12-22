@@ -9,6 +9,9 @@ function App() {
         <p>
           Hey how you doin...
         </p>
+        <h1>
+          We are going to create a contact app...
+        </h1>
       </header>
     </div>
   );
